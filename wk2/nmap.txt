@@ -1,0 +1,8 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 16:19 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1)
+Host is up (0.0000050s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http

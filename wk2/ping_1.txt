@@ -1,0 +1,2 @@
+PING 162.243.169.120 (162.243.169.120) 56(84) bytes of data.
+64 bytes from 162.243.169.120: icmp_seq=1 ttl=57 time=13.7 ms

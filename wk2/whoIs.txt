@@ -1,0 +1,362 @@
+1. google.com
+
+	Registrar Info
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+	Important Dates
+
+Expires On2028-09-13
+Registered On1997-09-15
+Updated On2019-09-09
+
+	Name Servers
+
+ns1.google.com216.239.32.10
+ns2.google.com216.239.34.10
+ns3.google.com216.239.36.10
+ns4.google.com216.239.38.10
+
+	Similar Domains
+
+googl%c3%a8.com | googl%c4%95.com | googl%e2%84%85c3%a8.com | googl%e2%84%85c3%ef%bf%bd.com | googl----e.com | googl--e.com | googl-.com | googl-1.com | googl-2.com | googl-accts.com | googl-ak.com | googl-analistic.com | googl-analistic.net | googl-analistic.ru | googl-analistic.ua | googl-analisys.com | googl-android.ru | googl-apps-cloud.info | googl-apps.com | googl-art.com |
+
+	Registrar Data
+
+Whois information for this domain has been blocked. For more information please contact us.
+
+2. steam.com
+
+	Registrar Info
+
+NameGoDaddy.com, LLC
+Whois Serverwhois.godaddy.com
+Referral URLhttp://www.godaddy.com
+StatusclientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+
+	Important Dates
+
+Expires On2023-07-12
+Registered On1994-07-13
+Updated On2018-07-09
+
+	Name Servers
+
+NS.ARCTIC.ORG74.207.246.137
+NS.STEAM.COM216.201.187.21
+NS.TOASTER.NET216.201.227.5
+
+	Similar Domains
+
+steam---cleaners.com | steam--carpetcleaning.com | steam--cleaners.org | steam--direct--tv.com | steam--engine.org | steam--packet.com | steam--punk.com | steam--room.ru | steam-1.com | steam-1.net | steam-13579x.com | steam-24.ru | steam-3.ru | steam-360.com | steam-3d.com | steam-4kids.org | steam-a-bowl.com | steam-a-prawn.com | steam-a-way.com | steam-abc.com |
+
+	Registrar Data
+
+Registrant Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+Administrative Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+Technical Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+Information Updated: 2021-01-21 21:12:05
+
+3. yahoo.com
+
+	Registrar Info
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+	Important Dates
+
+Expires On2023-01-19
+Registered On1995-01-18
+Updated On2020-07-30
+
+	Name Servers
+
+ns1.yahoo.com68.180.131.16
+ns2.yahoo.com68.142.255.16
+ns3.yahoo.com27.123.42.42
+ns4.yahoo.com98.138.11.157
+ns5.yahoo.com202.165.97.53
+
+	Similar Domains
+
+yahoo---messenger.com | yahoo---moiprogrammy.com | yahoo--error.com | yahoo--espanol.com | yahoo--fantasy--football.com | yahoo--finance.com | yahoo--google.com | yahoo--google.info | yahoo--hot-jobs.com | yahoo--inc.com | yahoo--invisible.com | yahoo--mail.com | yahoo--search--engine.com | yahoo--status.com | yahoo--store.com | yahoo--sucks.com | yahoo--union.com | yahoo--war.info | yahoo--yahoo.com | yahoo-.com |
+
+	Registrar Data
+
+Registrant Contact Information:
+NameDomain Admin
+OrganizationOath Inc.
+Address22000 AOL Way
+CityDulles
+State / ProvinceVA
+Postal Code20166
+CountryUS
+Phone+1.4083493300
+Email
+
+Administrative Contact Information:
+NameDomain Admin
+OrganizationOath Inc.
+Address22000 AOL Way
+CityDulles
+State / ProvinceVA
+Postal Code20166
+CountryUS
+Phone+1.4083493300
+Email
+
+Technical Contact Information:
+NameDomain Admin
+OrganizationOath Inc.
+Address22000 AOL Way
+CityDulles
+State / ProvinceVA
+Postal Code20166
+CountryUS
+Phone+1.4083493300
+Email
+
+4. roblox.com
+
+	Registrar Info
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+	Important Dates
+
+Expires On2023-01-29
+Registered On2004-01-30
+Updated On2020-12-29
+
+	Name Servers
+
+dns1.p06.nsone.net198.51.44.6
+dns2.p06.nsone.net198.51.45.6
+dns3.p06.nsone.net198.51.44.70
+dns4.p06.nsone.net198.51.45.70
+ns01.rbxinfra.net157.53.225.1
+ns02.rbxinfra.net157.53.225.65
+ns03.rbxinfra.net157.53.225.129
+ns04.rbxinfra.net157.53.225.193
+
+	Similar Domains
+
+roblo.com | roblo.com.br | roblo.info | roblo.net | roblo.org | roblo.photo | roblo.pl | roblo.trade | roblo.win | roblo.xxx | roblo0x.com | roblo9x.com | robloach.net | robloach.org | robloader.co.nz | robloak.com | robloan.com | robloane.com | robloans.com | robloanservices.org |
+
+	Registrar Data
+
+Domain Name: roblox.com
+Registry Domain ID: 110864800_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-12-29T02:37:18-0800
+Creation Date: 2004-01-29T16:08:43-0800
+Registrar Registration Expiration Date: 2023-01-29T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Roblox Corporation
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Admin Organization: Roblox Corporation
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Tech Organization: Roblox Corporation
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Name Server: ns02.rbxinfra.net
+Name Server: ns01.rbxinfra.net
+Name Server: dns4.p06.nsone.net
+Name Server: dns3.p06.nsone.net
+Name Server: dns1.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: ns03.rbxinfra.net
+Name Server: ns04.rbxinfra.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2021-01-21T11:56:52-0800 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to 
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+
+5. facebook.com
+
+	Registrar Info
+
+NameRegistrarSafe, LLC
+Whois Serverwhois.registrarsafe.com
+Referral URLhttps://www.registrarsafe.com
+StatusclientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+
+	Important Dates
+
+Expires On2028-03-30
+Registered On1997-03-29
+Updated On2020-03-10
+
+	Name Servers
+
+A.NS.FACEBOOK.COM129.134.30.12
+B.NS.FACEBOOK.COM129.134.31.12
+C.NS.FACEBOOK.COM185.89.218.12
+D.NS.FACEBOOK.COM185.89.219.12
+
+	Similar Domains
+
+faceb%c3%b6ok.com | faceb--k.com | faceb--kbasedbiz.com | faceb--l.com | faceb-activate.com | faceb-color.co.cc | faceb-design.com | faceb-error.com | faceb-junkie.com | faceb-ok.com | faceb-ook.com | faceb-server.com | faceb-survey.com | faceb.biz | faceb.br | faceb.cc | faceb.chat | faceb.co | faceb.co.il | faceb.co.in |
+
+	Registrar Data
+
+Registrant Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Administrative Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Technical Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+

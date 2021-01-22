@@ -1,0 +1,19 @@
+1. 
+domain name: www.maxgames.com
+ip address: 268678zlx63rm.cloudfront.net./13.224.2.35
+
+2.
+domain name: www.youtube.com
+ip address: youtube-ui.l.google.com./172.217.14.238
+
+3.
+domain name: www.y8.com
+ip address: y8.com./162.243.169.120
+
+4.
+domain name: www.epicgames.com
+ip address: epicgames.com./54.227.126.14
+
+5.
+domain name: www.chess.com
+ip address: www.chess.com.cdn.cloudflare.net./104.17.237.85

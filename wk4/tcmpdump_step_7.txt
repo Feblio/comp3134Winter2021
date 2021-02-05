@@ -1,0 +1,73 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+16:59:01.317791 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1612156906:1612156950, ack 2776242151, win 501, length 44
+16:59:01.317864 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 44:152, ack 1, win 501, length 108
+16:59:01.317906 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 152:188, ack 1, win 501, length 36
+16:59:01.331170 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 188, win 3134, length 0
+16:59:04.789467 IP 185.121.165.254.41201 > 167.99.180.39.623: Flags [S], seq 2799070536, win 1024, length 0
+16:59:12.750735 IP 110.18.17.182.56958 > 167.99.180.39.telnet: Flags [S], seq 2808329255, win 55158, options [mss 1452], length 0
+16:59:17.403959 IP 200-136-110-110.ansp.br.57182 > 167.99.180.39.microsoft-ds: Flags [S], seq 1552013017, win 8192, options [mss 1460,nop,nop,sackOK], length 0
+16:59:18.669301 IP 46.224.91.193.51027 > 167.99.180.39.ms-sql-s: Flags [S], seq 1174277093, win 8192, options [mss 1390,nop,wscale 8,nop,nop,sackOK], length 0
+16:59:20.409731 IP 200-136-110-110.ansp.br.57182 > 167.99.180.39.microsoft-ds: Flags [S], seq 1552013017, win 8192, options [mss 1460,nop,nop,sackOK], length 0
+16:59:22.846477 IP 206.189.18.40.46384 > 167.99.180.39.ssh: Flags [FP.], seq 2095273663:2095273715, ack 1856470018, win 262, options [nop,nop,TS val 1602156160 ecr 41303057], length 52
+16:59:22.846533 IP 167.99.180.39 > 206.189.18.40: ICMP 167.99.180.39 tcp port ssh unreachable, length 112
+16:59:24.014818 IP 167.99.180.39.ssh > 206.189.18.40.46384: Flags [P.], seq 4294967229:1, ack 0, win 507, options [nop,nop,TS val 41339921 ecr 1602137398], length 68
+16:59:24.092993 IP 206.189.18.40.46384 > 167.99.180.39.ssh: Flags [.], ack 1, win 262, options [nop,nop,TS val 1602156471 ecr 41339921,nop,nop,sack 1 {4294967229:1}], length 0
+16:59:24.093050 IP 167.99.180.39 > 206.189.18.40: ICMP 167.99.180.39 tcp port ssh unreachable, length 72
+16:59:26.415468 IP 200-136-110-110.ansp.br.57182 > 167.99.180.39.microsoft-ds: Flags [S], seq 1552013017, win 8192, options [mss 1460,nop,nop,sackOK], length 0
+16:59:28.549233 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [S], seq 1065126183, win 64240, options [mss 1460,sackOK,TS val 836297475 ecr 0,nop,wscale 7], length 0
+16:59:28.549294 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [S.], seq 2632738737, ack 1065126184, win 65160, options [mss 1460,sackOK,TS val 1136697645 ecr 836297475,nop,wscale 7], length 0
+16:59:28.645228 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [.], ack 1, win 502, options [nop,nop,TS val 836297571 ecr 1136697645], length 0
+16:59:28.645441 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [P.], seq 1:24, ack 1, win 502, options [nop,nop,TS val 836297572 ecr 1136697645], length 23
+16:59:28.645462 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [.], ack 24, win 509, options [nop,nop,TS val 1136697741 ecr 836297572], length 0
+16:59:28.656151 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [P.], seq 1:42, ack 24, win 509, options [nop,nop,TS val 1136697752 ecr 836297572], length 41
+16:59:28.751775 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [.], ack 42, win 502, options [nop,nop,TS val 836297678 ecr 1136697752], length 0
+16:59:28.751818 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [P.], seq 42:1098, ack 24, win 509, options [nop,nop,TS val 1136697847 ecr 836297678], length 1056
+16:59:28.751957 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [P.], seq 24:672, ack 42, win 502, options [nop,nop,TS val 836297678 ecr 1136697752], length 648
+16:59:28.751973 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [.], ack 672, win 504, options [nop,nop,TS val 1136697847 ecr 836297678], length 0
+16:59:28.754711 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [F.], seq 1098, ack 672, win 504, options [nop,nop,TS val 1136697850 ecr 836297678], length 0
+16:59:28.858895 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [.], ack 1099, win 501, options [nop,nop,TS val 836297785 ecr 1136697847], length 0
+16:59:28.858976 IP 167.99.129.68.59176 > 167.99.180.39.ssh: Flags [F.], seq 672, ack 1099, win 501, options [nop,nop,TS val 836297785 ecr 1136697847], length 0
+16:59:28.859000 IP 167.99.180.39.ssh > 167.99.129.68.59176: Flags [.], ack 673, win 504, options [nop,nop,TS val 1136697954 ecr 836297785], length 0
+16:59:29.660030 IP 46.101.214.53.44114 > 167.99.180.39.6666: Flags [S], seq 3053898892, win 1024, length 0
+17:00:00.378139 IP 194.147.140.92.56529 > 167.99.180.39.1878: Flags [S], seq 722210027, win 1024, length 0
+17:00:00.967908 IP 37.120.149.150 > 167.99.180.39: ICMP echo request, id 31457, seq 0, length 14
+17:00:00.967960 IP 167.99.180.39 > 37.120.149.150: ICMP echo reply, id 31457, seq 0, length 14
+17:00:03.594709 IP 61-219-11-153.HINET-IP.hinet.net.61218 > 167.99.180.39.2869: Flags [S], seq 751385242, win 1024, length 0
+17:00:05.805887 IP 167.99.180.39.ssh > 206.189.18.40.46384: Flags [F.], seq 1, ack 0, win 507, options [nop,nop,TS val 41381712 ecr 1602137398], length 0
+17:00:05.884566 IP 206.189.18.40.46384 > 167.99.180.39.ssh: Flags [.], ack 2, win 262, options [nop,nop,TS val 1602166919 ecr 41381712], length 0
+17:00:05.884613 IP 167.99.180.39 > 206.189.18.40: ICMP 167.99.180.39 tcp port ssh unreachable, length 60
+17:00:05.998785 ARP, Request who-has 167.99.176.1 tell 167.99.180.39, length 28
+17:00:06.000189 ARP, Reply 167.99.176.1 is-at fe:00:00:00:01:01 (oui Unknown), length 46
+17:00:13.377808 IP 118.70.128.82.44277 > 167.99.180.39.microsoft-ds: Flags [S], seq 544921162, win 8192, options [mss 1398,nop,nop,sackOK], length 0
+17:00:15.662560 IP 167.172.166.232.26874 > 167.99.180.39.ssh: Flags [S], seq 1443264808, win 65535, options [mss 1460,nop,nop,sackOK], length 0
+17:00:15.662622 IP 167.99.180.39.ssh > 167.172.166.232.26874: Flags [S.], seq 763313360, ack 1443264809, win 64240, options [mss 1460,nop,nop,sackOK], length 0
+17:00:16.686816 IP 167.99.180.39.ssh > 167.172.166.232.26874: Flags [S.], seq 763313360, ack 1443264809, win 64240, options [mss 1460,nop,nop,sackOK], length 0
+17:00:16.793975 IP 167.172.166.232.26874 > 167.99.180.39.ssh: Flags [R], seq 1443264809, win 0, length 0
+17:00:21.264489 IP 45.155.205.225.43666 > 167.99.180.39.478: Flags [S], seq 2087920517, win 1024, length 0
+17:00:33.784455 IP zg-1218c-355.stretchoid.com.39304 > 167.99.180.39.https: Flags [S], seq 2959732792, win 65535, length 0
+17:00:33.784520 IP 167.99.180.39.https > zg-1218c-355.stretchoid.com.39304: Flags [R.], seq 0, ack 2959732793, win 0, length 0
+17:00:39.022756 ARP, Request who-has 167.99.176.1 tell 167.99.180.39, length 28
+17:00:39.023781 ARP, Reply 167.99.176.1 is-at fe:00:00:00:01:01 (oui Unknown), length 46
+17:00:39.498720 IP 206.189.18.40.33090 > 167.99.180.39.ssh: Flags [S], seq 2298684963, win 29200, options [mss 1460,sackOK,TS val 1602175322 ecr 0,nop,wscale 7], length 0
+17:00:39.498769 IP 167.99.180.39 > 206.189.18.40: ICMP 167.99.180.39 tcp port ssh unreachable, length 68
+17:00:48.382455 IP scanner-03.ch1.censys-scanner.com.19447 > 167.99.180.39.pop3s: Flags [S], seq 1789028084, win 1024, options [mss 1460], length 0
+17:00:58.375978 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [S], seq 1203086726, win 64240, options [mss 1460,sackOK,TS val 836387304 ecr 0,nop,wscale 7], length 0
+17:00:58.376042 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [S.], seq 663741865, ack 1203086727, win 65160, options [mss 1460,sackOK,TS val 1136787472 ecr 836387304,nop,wscale 7], length 0
+17:00:58.472341 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [.], ack 1, win 502, options [nop,nop,TS val 836387401 ecr 1136787472], length 0
+17:00:58.472426 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [P.], seq 1:24, ack 1, win 502, options [nop,nop,TS val 836387401 ecr 1136787472], length 23
+17:00:58.472444 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [.], ack 24, win 509, options [nop,nop,TS val 1136787568 ecr 836387401], length 0
+17:00:58.483307 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [P.], seq 1:42, ack 24, win 509, options [nop,nop,TS val 1136787579 ecr 836387401], length 41
+17:00:58.579054 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [.], ack 42, win 502, options [nop,nop,TS val 836387507 ecr 1136787579], length 0
+17:00:58.579099 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [P.], seq 42:1098, ack 24, win 509, options [nop,nop,TS val 1136787675 ecr 836387507], length 1056
+17:00:58.579353 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [P.], seq 24:672, ack 42, win 502, options [nop,nop,TS val 836387508 ecr 1136787579], length 648
+17:00:58.579377 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [.], ack 672, win 504, options [nop,nop,TS val 1136787675 ecr 836387508], length 0
+17:00:58.582191 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [F.], seq 1098, ack 672, win 504, options [nop,nop,TS val 1136787678 ecr 836387508], length 0
+17:00:58.675429 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [F.], seq 672, ack 1098, win 501, options [nop,nop,TS val 836387604 ecr 1136787675], length 0
+17:00:58.675499 IP 167.99.180.39.ssh > 167.99.129.68.55184: Flags [.], ack 673, win 504, options [nop,nop,TS val 1136787771 ecr 836387604], length 0
+17:00:58.677878 IP 167.99.129.68.55184 > 167.99.180.39.ssh: Flags [.], ack 1099, win 501, options [nop,nop,TS val 836387606 ecr 1136787678], length 0
+17:01:09.120646 IP 141.98.80.242.52285 > 167.99.180.39.55667: Flags [S], seq 975886254, win 1024, length 0
+17:01:20.346071 IP 80.82.68.225.43373 > 167.99.180.39.73: Flags [S], seq 827467892, win 1024, length 0
+17:01:39.228481 IP 194.147.140.109.56272 > 167.99.180.39.41251: Flags [S], seq 4265635943, win 1024, length 0
+17:01:41.648510 IP 142.93.209.158.2660 > 167.99.180.39.ms-sql-m: UDP, length 7
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C

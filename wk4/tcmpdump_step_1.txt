@@ -1,0 +1,101 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0
+1413612:1413816, ack 217, win 501, length 204
+16:52:36.052066 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1413816:1414020, ack 217, win 501, length 204
+16:52:36.052123 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1414020:1414224, ack 217, win 501, length 204
+16:52:36.052180 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1414224:1414428, ack 217, win 501, length 204
+16:52:36.052239 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1414428:1414632, ack 217, win 501, length 204
+16:52:36.052293 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1414632:1414836, ack 217, win 501, length 204
+16:52:36.052348 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1414836:1415040, ack 217, win 501, length 204
+16:52:36.052408 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1415040:1415244, ack 217, win 501, length 204
+16:52:36.052463 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1415244:1415448, ack 217, win 501, length 204
+16:52:36.052522 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1415448:1415652, ack 217, win 501, length 204
+16:52:36.052577 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1415652:1415856, ack 217, win 501, length 204
+16:52:36.052632 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1415856:1416060, ack 217, win 501, length 204
+16:52:36.052693 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1416060:1416264, ack 217, win 501, length 204
+16:52:36.052748 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1416264:1416468, ack 217, win 501, length 204
+16:52:36.052802 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1416468:1416672, ack 217, win 501, length 204
+16:52:36.052871 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1416672:1416876, ack 217, win 501, length 204
+16:52:36.052929 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1416876:1417080, ack 217, win 501, length 204
+16:52:36.052982 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1417080:1417284, ack 217, win 501, length 204
+16:52:36.053041 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1417284:1417488, ack 217, win 501, length 204
+16:52:36.053097 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1417488:1417692, ack 217, win 501, length 204
+16:52:36.053153 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1417692:1417896, ack 217, win 501, length 204
+16:52:36.053214 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1417896:1418100, ack 217, win 501, length 204
+16:52:36.053243 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1370012, win 2667, length 0
+16:52:36.053256 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1379984, win 2628, length 0
+16:52:36.053334 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1418100:1418592, ack 217, win 501, length 492
+16:52:36.053405 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1418592:1418796, ack 217, win 501, length 204
+16:52:36.053465 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1418796:1419000, ack 217, win 501, length 204
+16:52:36.053547 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1419000:1419204, ack 217, win 501, length 204
+16:52:36.053610 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1419204:1419408, ack 217, win 501, length 204
+16:52:36.053676 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1419408:1419612, ack 217, win 501, length 204
+16:52:36.053734 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1419612:1419816, ack 217, win 501, length 204
+16:52:36.053801 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1419816:1420020, ack 217, win 501, length 204
+16:52:36.053875 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1420020:1420224, ack 217, win 501, length 204
+16:52:36.053935 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1420224:1420428, ack 217, win 501, length 204
+16:52:36.053992 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1420428:1420632, ack 217, win 501, length 204
+16:52:36.054065 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1420632:1420836, ack 217, win 501, length 204
+16:52:36.054127 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1420836:1421040, ack 217, win 501, length 204
+16:52:36.054196 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1421040:1421244, ack 217, win 501, length 204
+16:52:36.054261 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1421244:1421448, ack 217, win 501, length 204
+16:52:36.054318 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1421448:1421652, ack 217, win 501, length 204
+16:52:36.054373 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1421652:1421856, ack 217, win 501, length 204
+16:52:36.054433 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1421856:1422060, ack 217, win 501, length 204
+16:52:36.054497 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1422060:1422264, ack 217, win 501, length 204
+16:52:36.054597 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1422264:1422468, ack 217, win 501, length 204
+16:52:36.054659 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1422468:1422672, ack 217, win 501, length 204
+16:52:36.054736 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1422672:1422876, ack 217, win 501, length 204
+16:52:36.054796 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1422876:1423080, ack 217, win 501, length 204
+16:52:36.054853 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1423080:1423284, ack 217, win 501, length 204
+16:52:36.054912 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1423284:1423488, ack 217, win 501, length 204
+16:52:36.054969 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1423488:1423692, ack 217, win 501, length 204
+16:52:36.055025 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1423692:1423896, ack 217, win 501, length 204
+16:52:36.055083 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1423896:1424100, ack 217, win 501, length 204
+16:52:36.055152 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1424100:1424304, ack 217, win 501, length 204
+16:52:36.055210 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1424304:1424508, ack 217, win 501, length 204
+16:52:36.055275 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1424508:1424712, ack 217, win 501, length 204
+16:52:36.055338 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1424712:1424916, ack 217, win 501, length 204
+16:52:36.055398 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1424916:1425120, ack 217, win 501, length 204
+16:52:36.055462 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1425120:1425324, ack 217, win 501, length 204
+16:52:36.055524 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1425324:1425528, ack 217, win 501, length 204
+16:52:36.055582 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1425528:1425732, ack 217, win 501, length 204
+16:52:36.055644 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1425732:1425936, ack 217, win 501, length 204
+16:52:36.055702 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1425936:1426140, ack 217, win 501, length 204
+16:52:36.055765 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1426140:1426344, ack 217, win 501, length 204
+16:52:36.055824 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1426344:1426548, ack 217, win 501, length 204
+16:52:36.055891 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1426548:1426752, ack 217, win 501, length 204
+16:52:36.055958 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1426752:1426956, ack 217, win 501, length 204
+16:52:36.056018 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1426956:1427160, ack 217, win 501, length 204
+16:52:36.056086 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1427160:1427364, ack 217, win 501, length 204
+16:52:36.056154 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1427364:1427568, ack 217, win 501, length 204
+16:52:36.056216 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1427568:1427772, ack 217, win 501, length 204
+16:52:36.056279 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1427772:1427976, ack 217, win 501, length 204
+16:52:36.056338 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1427976:1428180, ack 217, win 501, length 204
+16:52:36.056400 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1428180:1428384, ack 217, win 501, length 204
+16:52:36.056458 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1428384:1428588, ack 217, win 501, length 204
+16:52:36.056515 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1428588:1428792, ack 217, win 501, length 204
+16:52:36.056574 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1428792:1428996, ack 217, win 501, length 204
+16:52:36.056632 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1428996:1429200, ack 217, win 501, length 204
+16:52:36.056694 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1429200:1429404, ack 217, win 501, length 204
+16:52:36.056754 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1429404:1429608, ack 217, win 501, length 204
+16:52:36.056813 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1429608:1429812, ack 217, win 501, length 204
+16:52:36.056871 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1429812:1430016, ack 217, win 501, length 204
+16:52:36.056935 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1430016:1430220, ack 217, win 501, length 204
+16:52:36.056995 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1430220:1430424, ack 217, win 501, length 204
+16:52:36.057060 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1430424:1430628, ack 217, win 501, length 204
+16:52:36.057119 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1430628:1430832, ack 217, win 501, length 204
+16:52:36.057175 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1430832:1431036, ack 217, win 501, length 204
+16:52:36.057236 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1431036:1431240, ack 217, win 501, length 204
+16:52:36.057294 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1431240:1431444, ack 217, win 501, length 204
+16:52:36.057354 IP 167.99.180.39.ssh > cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193: Flags [P.], seq 1431444:1431648, ack 217, win 501, length 204
+16:52:36.057368 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [P.], seq 217:253, ack 1379984, win 2628, length 36
+16:52:36.057376 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1390268, win 2588, length 0
+16:52:36.057378 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1391492, win 2583, length 0
+16:52:36.057380 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1393940, win 2574, length 0
+16:52:36.057382 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1395572, win 2567, length 0
+16:52:36.057388 IP cpeac202e733573-cmac202e733570.cpe.net.cable.rogers.com.51193 > 167.99.180.39.ssh: Flags [.], ack 1395980, win 2566, length 0
+^C
+7318 packets captured
+7319 packets received by filter
+1 packet dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

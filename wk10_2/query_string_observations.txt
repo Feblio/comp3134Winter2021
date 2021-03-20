@@ -1,0 +1,8 @@
+1)for the valid english word 
+I get this "1P_JAR=2021-03-20-01; DV=M7ji4vXQQ7wqMBdOY1FeiYqAw1_VhNdxihAYO165JQAAAAA"
+2)for the invalid english word
+I get the same thing "1P_JAR=2021-03-20-01; DV=M7ji4vXQQ7wqcJwiBMaOV275X2rVhNdcOI1FeSUqAgIAAAA"
+3)<script>alert(%27hello%27)</script>
+then I get this text "1P_JAR=2021-03-20-01"
+4)<script>alert(%27hello%27)</script>
+then I get the same thing as before "1P_JAR=2021-03-20-01"

@@ -1,0 +1,2 @@
+1) I see an array from 0-15 which has file names within the list.
+2) The sensitive information is probably the file names.

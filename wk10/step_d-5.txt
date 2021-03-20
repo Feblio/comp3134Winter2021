@@ -1,0 +1,2 @@
+1) I see an array from 0-2 and the only important word on the screen is html.
+2) No sensitive information is given other than the word html in the array.

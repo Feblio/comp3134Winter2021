@@ -1,0 +1,4 @@
+1) There is a problem which occured on line 7 is all the information that is given to me and also that there is "No such file or directory".
+Warning:  scandir(hello): failed to open dir: No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+2) The only sensitive information that is given was the directory folder where the problem occured.
